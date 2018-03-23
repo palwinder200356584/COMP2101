@@ -1,6 +1,6 @@
 #!/bin/bash
 #Bash Mid-semester final assignment
-#COMP 2101 MONDAY Morning Class
+#COMP 2101 Tuesday Morning Class
 #Name:Palwinder Kaur
 #Student ID:200356584
 # This content actualizes the tasks in the bash semester assignment
